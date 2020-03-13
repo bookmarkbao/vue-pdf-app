@@ -1,15 +1,12 @@
 # vue-pdf-app
 基于Vue+PDF.js实现的手机版预览
 
-# PDF在线预览之PDF.js渲染引擎
+# Vue移动端在线预览之PDF实现
+
+![设计坞-20200313-4720547](http://image.damoxueyuan.com/uPic/设计坞-20200313-4720547.jpg)
 
 ## 效果演示
-<ul style="display:flex;list-style:none;">
-<li><img src="http://image.damoxueyuan.com/uPic/image-20200313191837824.png" alt="image-20200313191837824"/></li>
-<li><img src="http://image.damoxueyuan.com/uPic/image-20200313191956514.png" alt="image-20200313191956514"/></li>
-<li><img src="http://image.damoxueyuan.com/uPic/image-20200313192632729.png" alt="image-20200313192632729" /></li>
-</ul>
-
+![image-20200313201359741](http://image.damoxueyuan.com/uPic/image-20200313201359741.png)
 
 
 
